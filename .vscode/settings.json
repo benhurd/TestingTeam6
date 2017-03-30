@@ -1,0 +1,5 @@
+{
+    "http.proxy": "http://551024:benjob#3@proxy.cognizant.com:6050/",
+    "http.proxyStrictSSL": false, 
+    "http.proxyAuthorization": null,
+}

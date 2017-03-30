@@ -1,0 +1,9 @@
+c:\users\551024\documents\visual studio 2017\Projects\ConsoleApp1\webcoreMVC\bin\Debug\netcoreapp1.1\webcoreMVC.deps.json
+c:\users\551024\documents\visual studio 2017\Projects\ConsoleApp1\webcoreMVC\bin\Debug\netcoreapp1.1\webcoreMVC.runtimeconfig.json
+c:\users\551024\documents\visual studio 2017\Projects\ConsoleApp1\webcoreMVC\bin\Debug\netcoreapp1.1\webcoreMVC.runtimeconfig.dev.json
+c:\users\551024\documents\visual studio 2017\Projects\ConsoleApp1\webcoreMVC\bin\Debug\netcoreapp1.1\webcoreMVC.dll
+c:\users\551024\documents\visual studio 2017\Projects\ConsoleApp1\webcoreMVC\bin\Debug\netcoreapp1.1\webcoreMVC.pdb
+c:\users\551024\documents\visual studio 2017\Projects\ConsoleApp1\webcoreMVC\obj\Debug\netcoreapp1.1\webcoreMVC.csprojResolveAssemblyReference.cache
+c:\users\551024\documents\visual studio 2017\Projects\ConsoleApp1\webcoreMVC\obj\Debug\netcoreapp1.1\webcoreMVC.AssemblyInfo.cs
+c:\users\551024\documents\visual studio 2017\Projects\ConsoleApp1\webcoreMVC\obj\Debug\netcoreapp1.1\webcoreMVC.dll
+c:\users\551024\documents\visual studio 2017\Projects\ConsoleApp1\webcoreMVC\obj\Debug\netcoreapp1.1\webcoreMVC.pdb
